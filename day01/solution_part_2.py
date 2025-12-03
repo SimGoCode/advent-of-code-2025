@@ -1,4 +1,6 @@
-from input import INPUT as input_data
+# https://adventofcode.com/2025/day/1
+
+from input import INPUT
 
 def solve(input):
     current_digit = 50
@@ -36,6 +38,6 @@ def solve(input):
 
 
 if __name__ == "__main__":
-    result = solve(input_data)
+    result = solve(INPUT)
     print("Result:", result)
 
