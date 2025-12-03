@@ -16,7 +16,7 @@ advent-of-code-2025/
 │   └── solution_part_1.py
 │   └── solution_part_2.py
 ...
-├── day25/
+├── day12/
 │   ├── input.py
 │   └── solution_part_1.py
 │   └── solution_part_2.py
