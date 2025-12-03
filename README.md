@@ -5,18 +5,21 @@ The solutions are written in **Python** and are organized by day.
 
 ## Repository Structure
 
+```
 advent-of-code-2025/
 ├── day01/
-│ ├── input.txt
-│ └── solution.py
+│   ├── input.txt
+│   └── solution.py
 ├── day02/
-│ ├── input.txt
-│ └── solution.py
+│   ├── input.txt
+│   └── solution.py
 ...
 ├── day25/
-│ ├── input.txt
-│ └── solution.py
+│   ├── input.txt
+│   └── solution.py
+│ 
 └── README.md
+```
 
 - Each `dayXX` folder contains:
   - `input.txt` : the problem input
