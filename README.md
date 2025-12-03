@@ -8,22 +8,25 @@ The solutions are written in **Python** and are organized by day.
 ```
 advent-of-code-2025/
 ├── day01/
-│   ├── input.txt
-│   └── solution.py
+│   ├── input.py
+│   └── solution_part_1.py
+│   └── solution_part_2.py
 ├── day02/
-│   ├── input.txt
-│   └── solution.py
+│   ├── input.py
+│   └── solution_part_1.py
+│   └── solution_part_2.py
 ...
 ├── day25/
-│   ├── input.txt
-│   └── solution.py
+│   ├── input.py
+│   └── solution_part_1.py
+│   └── solution_part_2.py
 │ 
 └── README.md
 ```
 
 - Each `dayXX` folder contains:
-  - `input.txt` : the problem input
-  - `solution.py` : my solution for that day
+  - `input.py` : where you can put your own problem input
+  - `solution_part_x.py` : my solution for that part of the daily problem
 
 ## Goals
 
