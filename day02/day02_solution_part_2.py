@@ -1,6 +1,6 @@
 # https://adventofcode.com/2025/day/1
 
-from day_02_input import INPUT
+from day02_input import INPUT
 
 def solve(input):
 
