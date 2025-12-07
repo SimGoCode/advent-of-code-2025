@@ -1,6 +1,6 @@
 # https://adventofcode.com/2025/day/1
 
-from input import INPUT
+from day01_input import INPUT
 
 def solve(input):
     current_digit = 50
